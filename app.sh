@@ -1,5 +1,6 @@
 #!/bin/bash
 
+	setterm -blank 1
     PLAYER="omxplayer -o hdmi "
     
 	while :
